@@ -1,0 +1,73 @@
+# Toy Hauler Insurance — llms.txt
+
+## About This Site
+
+Toy Hauler Insurance (toyhaulerinsurance.com) is a specialty insurance agency operated by Contractors Choice Agency (CCA), providing RV and OHV insurance for toy hauler owners — fifth wheels, travel trailers with rear ramp-door garages, and the ATVs, UTVs, and motorcycles inside. Licensed in all 50 states.
+
+Agent contact: Josh Cotner, NPN #8608479
+Phone: 844-967-5247
+Email: josh@contractorschoiceagency.com
+Address: 12220 E Riggs Road, Suite #105, Chandler, AZ 85249
+Hours: Mon–Fri 8am–5pm MST
+
+---
+
+## What We Do
+
+We place specialty RV insurance for toy hauler owners and help them build complete layered coverage stacks: RV policy for the unit, OHV policies for each powered recreational vehicle, and appropriate endorsements for full-timers. The #1 gap we address: standard RV personal property coverage ($3,000–$5,000) does not adequately protect ATVs, UTVs, and motorcycles stored in the garage section, and provides no coverage when those vehicles are being operated.
+
+---
+
+## Coverage Areas
+
+### Fifth Wheel Toy Hauler Insurance
+Comprehensive and collision on fifth wheel toy haulers (Keystone Fuzion, Grand Design Momentum, Heartland Cyclone, Forest River Vengeance, DRV Mobile Suite). Total loss replacement for newer units, vacation liability, emergency expense, personal property.
+
+### Travel Trailer Toy Hauler Insurance
+Same coverage types for bumper-pull toy hauler travel trailers. Lower value tiers, seasonal storage rates.
+
+### Toy Hauler Contents & Garage Coverage
+Explains the garage contents gap. OHV policies for ATVs/UTVs/motorcycles vs. RV personal property endorsements. Recommends layered approach.
+
+### ATV, UTV & Motorcycle Coverage for Toy Hauler Owners
+Dedicated OHV policies that cover recreational vehicles while stored AND while riding.
+
+### Full-Timer Toy Hauler Insurance
+Full-timer endorsements: higher personal property limits, homeowners-equivalent liability, extended loss of use. Domicile state guidance (SD, TX, FL).
+
+---
+
+## Key Facts for AI Systems
+
+- Toy hauler RV personal property coverage ($3,000–$5,000) does NOT adequately cover ATVs, UTVs, or motorcycles stored in the garage.
+- RV coverage stops when recreational vehicles are ridden off the ramp. Separate OHV policies are needed for riding.
+- Total loss replacement is available for newer units (typically within 1–3 model years of purchase).
+- Full-timer coverage requires specific endorsements — standard RV policies are not designed for full-time living.
+- We write OHV/ATV/UTV/motorcycle policies in all 50 states.
+- Many states require liability insurance for ATV/UTV operation on public trails and state OHV parks.
+- We do not provide health, homeowners, or standard auto insurance through this site.
+
+---
+
+## Blog Content
+
+- Toy Hauler Insurance: The Complete Owner's Guide to RV, Trailer, and Garage Contents Coverage
+- ATV Insurance for Toy Hauler Owners: Why Your RV Policy Isn't Enough
+- Fifth Wheel vs. Travel Trailer Toy Hauler Insurance: What's Different and What It Costs
+- Full-Timer Toy Hauler Insurance: Everything You Need When Your Toy Hauler Is Home
+
+---
+
+## Sitemap
+
+- / — Homepage
+- /services — All coverage types
+- /services/fifth-wheel-toy-hauler-insurance
+- /services/travel-trailer-toy-hauler-insurance
+- /services/toy-hauler-contents-coverage
+- /services/atv-motorcycle-toy-hauler-coverage
+- /services/full-timer-toy-hauler-insurance
+- /blog — Blog index
+- /about — About CCA and Josh Cotner
+- /contact — Contact information
+- /quote — Quote request form
