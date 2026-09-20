@@ -16,6 +16,11 @@
   <input name="coverageNeeded" />
   <input name="state" />
   <textarea name="message"></textarea>
+  <!-- added by josh-desk-3 2026-09-20: rendered on the live /quote page but not
+       declared here, so Netlify registered a narrower schema and dropped them on
+       every submission. Add-only: do not remove entries from this file. -->
+  <input name="crewSize" />
+  <input name="operationType" />
 </form>
 
 <form name="contact" data-netlify="true" netlify-honeypot="bot-field" hidden>
