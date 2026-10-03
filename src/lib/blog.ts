@@ -31,7 +31,7 @@ export function getAllPosts(): Post[] {
         description: data.description ?? "",
         date: data.date ?? "",
         category: data.category ?? "Insurance Guide",
-        image: data.image ?? "/images/blog-default.jpg",
+        image: data.image ?? "/images/blog-default.webp",
         author: data.author ?? "Toy Hauler Insurance Team",
         readTime: readingTime(content).text,
         content,

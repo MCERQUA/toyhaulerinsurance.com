@@ -48,7 +48,7 @@ export function BlogCards() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src={post.image || "/images/blog-default.jpg"}
+                    src={post.image || "/images/blog-default.webp"}
                     alt={post.title}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-105"

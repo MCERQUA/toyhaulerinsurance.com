@@ -45,7 +45,7 @@ export default function BlogPage() {
                   <FadeIn key={post.slug} delay={i * 0.05}>
                     <Link href={`/blog/${post.slug}`} className="group block bg-white rounded-2xl overflow-hidden border border-border hover:border-forest-green hover:shadow-md transition-all h-full flex flex-col">
                       <div className="relative h-48 bg-forest-green-50">
-                        <Image src={post.image || "/images/blog-default.jpg"} alt={post.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="(max-width: 768px) 100vw, 33vw" />
+                        <Image src={post.image || "/images/blog-default.webp"} alt={post.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="(max-width: 768px) 100vw, 33vw" />
                       </div>
                       <div className="p-6 flex flex-col flex-1">
                         <span className="inline-block text-xs font-bold font-body text-ember-orange bg-ember-orange/10 px-2 py-1 rounded-full mb-3">{post.category}</span>

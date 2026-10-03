@@ -38,7 +38,7 @@ export function WhyChooseUs() {
           <FadeIn direction="right" className="relative">
             <div className="relative h-[440px] sm:h-[520px] rounded-3xl overflow-hidden shadow-float ring-1 ring-line">
               <Image
-                src="/images/agent-handshake.jpg"
+                src="/images/agent-handshake.webp"
                 alt="Insurance agent reviewing toy hauler coverage documents with owners at a campsite"
                 fill
                 className="object-cover"

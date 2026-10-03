@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: `${SITE.name} | RV & Trailer Coverage | Free Quote | ${SITE.phone}`,
     description: SITE.description,
     url: SITE.url,
-    images: [{ url: `${SITE.url}/images/og-image.jpg`, width: 1216, height: 640 }],
+    images: [{ url: `${SITE.url}/images/og-image.jpg`, width: 1024, height: 1024 }],
   },
 };
 

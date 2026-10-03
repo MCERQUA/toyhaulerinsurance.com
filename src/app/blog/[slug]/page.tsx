@@ -152,7 +152,7 @@ export default async function BlogPostPage({
                           <Link key={r.slug} href={`/blog/${r.slug}`} className="group block">
                             <div className="flex gap-3 items-start">
                               <div className="flex-shrink-0 w-14 h-14 rounded-lg bg-forest-green-50 overflow-hidden relative">
-                                <Image src={r.image || "/images/blog-default.jpg"} alt={r.title} fill className="object-cover group-hover:scale-110 transition-transform" sizes="56px" />
+                                <Image src={r.image || "/images/blog-default.webp"} alt={r.title} fill className="object-cover group-hover:scale-110 transition-transform" sizes="56px" />
                               </div>
                               <div>
                                 <p className="font-body text-sm text-bark font-bold leading-snug group-hover:text-forest-green transition-colors line-clamp-2">{r.title}</p>

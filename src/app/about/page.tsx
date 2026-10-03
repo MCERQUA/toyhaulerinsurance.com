@@ -54,7 +54,7 @@ export default function AboutPage() {
 
               <FadeIn direction="left">
                 <div className="relative h-[450px] rounded-2xl overflow-hidden shadow-xl">
-                  <Image src="/images/about-agent.jpg" alt="Professional insurance agent" fill className="object-cover" sizes="(max-width: 1024px) 100vw, 50vw" />
+                  <Image src="/images/about-agent.webp" alt="Professional insurance agent" fill className="object-cover" sizes="(max-width: 1024px) 100vw, 50vw" />
                 </div>
               </FadeIn>
             </div>
