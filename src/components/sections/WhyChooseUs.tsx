@@ -38,8 +38,8 @@ export function WhyChooseUs() {
           <FadeIn direction="right" className="relative">
             <div className="relative h-[440px] sm:h-[520px] rounded-3xl overflow-hidden shadow-float ring-1 ring-line">
               <Image
-                src="/images/agent-handshake.webp"
-                alt="Insurance agent reviewing toy hauler coverage documents with owners at a campsite"
+                src="/images/toy-hauler-owners-handshake.webp"
+                alt="Toy hauler owners shaking hands with their insurance agent in the open trailer garage"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
