@@ -1,4 +1,4 @@
-import { Archivo, Inter } from "next/font/google";
+import localFont from "next/font/local";
 
 // Adventure typography (blueprint §8): bold outdoors-brand headings
 // (Archivo — rugged-but-modern grotesque, "Polaris/Can-Am marketing" feel) +
@@ -6,16 +6,25 @@ import { Archivo, Inter } from "next/font/google";
 // next/font. Export names + CSS vars are unchanged from the template so
 // layout.tsx and the `font-heading` / `font-body` Tailwind families keep working
 // untouched.
-export const headingFont = Archivo({
-  subsets: ["latin"],
+export const headingFont = localFont({
+  src: [
+    { path: "./fonts/Archivo-variable.woff2", weight: "500", style: "normal" },
+    { path: "./fonts/Archivo-variable.woff2", weight: "600", style: "normal" },
+    { path: "./fonts/Archivo-variable.woff2", weight: "700", style: "normal" },
+    { path: "./fonts/Archivo-variable.woff2", weight: "800", style: "normal" },
+    { path: "./fonts/Archivo-variable.woff2", weight: "900", style: "normal" },
+  ],
   variable: "--font-heading",
-  weight: ["500", "600", "700", "800", "900"],
   display: "swap",
 });
 
-export const bodyFont = Inter({
-  subsets: ["latin"],
+export const bodyFont = localFont({
+  src: [
+    { path: "./fonts/Inter-variable.woff2", weight: "400", style: "normal" },
+    { path: "./fonts/Inter-variable.woff2", weight: "500", style: "normal" },
+    { path: "./fonts/Inter-variable.woff2", weight: "600", style: "normal" },
+    { path: "./fonts/Inter-variable.woff2", weight: "700", style: "normal" },
+  ],
   variable: "--font-body",
-  weight: ["400", "500", "600", "700"],
   display: "swap",
 });
